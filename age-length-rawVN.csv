@@ -1,0 +1,105 @@
+ID,Species,Place,Lat,Date,Region,Year,Month,Season,age_yr,Total_length,length_cm,Weight (g),Sex,Read
+N0004,Steenbras,Henties Bay,22.127,27/08/2022,Central,2022,8,Winter,7,50,45.2,2310,F,sliced
+N0009,Steenbras,Henties Bay,22.127,27/08/2022,Central,2022,8,Winter,8,62.1,57,4195,F,sliced
+N0010,Steenbras,Henties Bay,22.127,27/08/2022,Central,2022,8,Winter,7,57.1,52.2,3155,F,sliced
+N0012,Steenbras,Mile 72,21.88,28/10/2022,Central,2022,10,Spring,8,68.4,62.5,5156,F,sliced
+N0013,Steenbras,Bakleigat,21.56,28/10/2022,Central,2022,10,Spring,25,89,81.5,11762,F,sliced
+N0014,Steenbras,Bakleigat,21.56,28/10/2022,Central,2022,10,Spring,4,41.9,38.1,1399,M,sliced
+N0018,Steenbras,Canopy,21.64,09/12/2022,Central,2022,12,Summer,29,74.4,68.5,7020,F,sliced
+N0019,Steenbras,Mile 72,21.88,09/12/2022,Central,2022,12,Summer,28,91.8,85.4,13600,F,sliced
+N0020,Steenbras,Canopy,21.64,09/12/2022,Central,2022,12,Summer,15,81,76.5,8920,F,sliced
+N0021,Steenbras,,,21/12/2022,Central,2022,12,Summer,12,58.4,54.9,3870,H,sliced
+N0023,Steenbras,,,21/12/2022,Central,2022,12,Summer,9,66.2,61,4470,H,sliced
+N0024,Steenbras,Mile 87,21.721,26/12/2022,Central,2022,12,Summer,9,58,53.5,3100,H,sliced
+N0025,Steenbras,Canopy,21.64,25/02/2023,Central,2023,2,Summer,6,45.1,42.2,,M,whole oto
+N0026,Steenbras,Canopy,21.64,25/02/2023,Central,2023,2,Summer,5,46.1,42,,H,whole oto
+N0027,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,8,56.9,52.6,3190,M,sliced
+N0028,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,13,73,66.3,7240,F,sliced
+N0029,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,12,76,69.5,7060,F,sliced
+N0030,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,29,91.6,87,14050,F,sliced
+N0031,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,38,92.3,84.8,14100,F,sliced
+N0033,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,15,76.8,70.2,8110,F,sliced
+N0034,Steenbras,Canopy,21.64,27/03/2023,Central,2023,3,Autumn,15,82.3,75.5,10750,F,sliced
+N0035,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,4,44.1,40,1220,M,whole oto
+N0036,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,3,41.3,38.1,1110,M,whole oto
+N0037,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,3,36.5,33.5,840,M,whole oto
+N0038,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,3,38.2,35,760,M,whole oto
+N0039,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,4,46.5,43.8,1640,M,whole oto
+N0040,Steenbras,Kunene River Mouth,17.3,14/05/2023,North,2023,5,Autumn,2,29,26.4,400,M,whole oto
+N0041,Steenbras,Kunene River Mouth,17.4,14/05/2023,North,2023,5,Autumn,3,34.4,31.5,640,M,whole oto
+N0042,Steenbras,Kunene River Mouth,17.4,14/05/2023,North,2023,5,Autumn,2,34.1,31,600,M,whole oto
+N0043,Steenbras,Kunene River Mouth,17.4,14/05/2023,North,2023,5,Autumn,3,40,36.8,960,M,whole oto
+N0044,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,4,48,43.1,1650,M,whole oto
+N0045,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,3,40,36,950,M,whole oto
+N0046,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,2,30,26.5,350,M,whole oto
+N0047,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,4,50,45.5,1960,M,whole oto
+B1,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,1,12.9,11.6,32,J,whole oto
+N0048,Steenbras,Kunene River Mouth,17.3,15/05/2023,North,2023,5,Autumn,3,40.3,36.6,980,M,whole oto
+N0049,Steenbras,Kunene River Mouth,17.3,15/05/2023,North,2023,5,Autumn,20,75.2,70,8000,F,sliced
+N0050,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,3,31.4,28.5,490,M,whole oto
+N0051,Steenbras,Kunene River Mouth,17.3,15/05/2023,North,2023,5,Autumn,2,28.4,26,350,J,whole oto
+N0052,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,3,33,30.5,580,J,whole oto
+N0053,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,2,31,28,510,J,whole oto
+N0054,Steenbras,Kunene River Mouth,17.4,15/05/2023,North,2023,5,Autumn,3,31.5,29.1,510,M,whole oto
+N0055,Steenbras,Site 2,18.1,16/05/2023,North,2023,5,Autumn,3,32.5,29.3,530,M,whole oto
+N0056,Steenbras,Site 2,18.1,16/05/2023,North,2023,5,Autumn,4,39.5,36,980,H,whole oto
+N0060,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,17,68.9,63.4,6410,F,sliced
+N0062,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,13,59.1,53.6,3330,F,sliced
+N0063,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,24,71.5,66.6,7040,F,sliced
+N0064,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,15,67.8,61.3,5140,F,sliced
+N0065,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,15,64.1,58.4,4350,F,sliced
+N0066,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,15,64.5,59.8,4240,F,sliced
+N0067,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,14,60.6,55.8,3690,F,sliced
+N0069,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,18,62.1,56.9,4110,F,sliced
+N0070,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,14,69.1,63.4,5270,F,sliced
+N0071,Steenbras,Site 2,18.3,16/05/2023,North,2023,5,Autumn,18,67,61.5,5460,F,sliced
+N0072,Steenbras,Cape Fria,18.4,17/05/2023,North,2023,5,Autumn,3,41.4,37.5,1070,M,whole oto
+N0073,Steenbras,Cape Fria,18.4,17/05/2023,North,2023,5,Autumn,2,28,26.8,380,J,whole oto
+N0074,Steenbras,Cape Fria,18.4,17/05/2023,North,2023,5,Autumn,2,37.5,34,810,H,whole oto
+N0076,Steenbras,Cape Fria,18.5,17/05/2023,North,2023,5,Autumn,3,40.8,37.1,1130,H,whole oto
+N0078,Steenbras,Cape Fria,18.5,17/05/2023,North,2023,5,Autumn,2,31.9,29.1,470,J,whole oto
+N0079,Steenbras,Cape Fria,18.5,17/05/2023,North,2023,5,Autumn,1,24,21.9,450,J,whole oto
+N0080,Steenbras,Cape Fria,18.5,17/05/2023,North,2023,5,Autumn,2,31,28.5,460,J,whole oto
+N0081,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,31,28,450,J,whole oto
+N0082,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,32.8,30,460,J,whole oto
+N0083,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,28,25.6,330,J,whole oto
+N0084,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,30.2,27.7,440,J,whole oto
+N0085,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,28.4,25.7,340,J,whole oto
+N0086,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,3,31.4,28.5,490,J,whole oto
+N0087,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,3,33.2,30,540,J,whole oto
+N0089,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,26.9,24.1,300,J,whole oto
+N0090,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,2,27.6,25.4,370,J,whole oto
+N0091,Steenbras,Cape Fria,18.51,17/05/2023,North,2023,5,Autumn,18,62.5,57.7,4030,F,sliced
+N0092,Steenbras,Mowe Bay,19.5,19/05/2023,North,2023,5,Autumn,2,34.3,30.6,590,J,whole oto
+N0094,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,36.5,33.5,720,M,whole oto
+N0095,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,38,34.5,800,M,
+N0096,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,7,43.4,39.2,1400,H,sliced
+N0097,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,40.4,36.5,1030,M,whole oto
+N0098,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,34,32,700,M,whole oto
+N0099,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,33.1,30.3,510,J,whole oto
+N0100,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,31,28.4,440,J,
+N0101,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,5,42,38.1,1220,H,sliced
+N0102,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,35.5,31.9,740,M,whole oto
+N0103,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,44.7,40.4,1360,H,whole oto
+N0104,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,4,37.3,34.9,830,M,whole oto
+N0105,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,32.7,29.5,500,J,whole oto
+N0106,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,3,41.7,38.4,1170,H,whole oto
+N0108,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,4,37,33.9,790,M,sliced
+N0109,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,32.1,29,510,J,whole oto
+N0110,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,34.1,31,650,M,whole oto
+N0111,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,5,38.9,35,980,F,sliced
+N0112,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,4,36,32.8,680,M,whole oto
+N0113,Steenbras,Mowe Bay,19.49,19/05/2023,North,2023,5,Autumn,2,31.3,28.5,440,J,whole oto
+N0115,Steenbras,Terrace Bay,20.12,20/05/2023,North,2023,5,Autumn,9,50.9,46.3,2420,,sliced
+N0116,Steenbras,Snuffels se gat,,07/05/2023,Central,2023,5,Autumn,14,80,75,,F,sliced
+N0118,Steenbras,Cape Cross,21.7675,11/06/2023,Central,2023,6,Winter,10,58,53.8,,F,sliced
+N0119,Steenbras,Cape Cross,21.7675,11/06/2023,Central,2023,6,Winter,11,60.5,56.8,,F,sliced
+N0120,Steenbras,,,26/08/2023,Central,2023,8,Winter,6,48.4,44.5,1500,M,sliced
+N0121,Steenbras,,,26/08/2023,Central,2023,8,Winter,11,71.3,65.5,5815,F,sliced
+N0124,Steenbras,,,30/08/2023,Central,2023,8,Winter,31,90,89.9,17000,F,sliced
+N0125,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,2,30,27.6,500,M,whole oto
+N0126,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,4,35.6,30.7,630,H,whole oto
+N0127,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,3,34.5,31.8,730,M,whole oto
+N0129,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,3,27.4,25.3,420,M,whole oto
+N0131,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,4,39.5,36.2,1030,H,whole oto
+N0132,Steenbras,Paaltjies,23,31/08/2023,Central,2023,8,Winter,9,50,46.5,2010,F,sliced

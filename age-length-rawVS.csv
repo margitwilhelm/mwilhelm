@@ -1,0 +1,156 @@
+ID,Species,Place,Lat,Date,Region,Year,Month,Day,Season,age_yr,Total_length,length_cm,Weight (g),Sex,Read
+S0002,Steenbras,Meob Bay,24.68,08/06/2020,South,2020,6,8,Winter,11,59,53.7,3.19,M,whole oto
+S0008,Steenbras,Meob Bay,24.73,19/10/2020,South,2020,10,19,Spring,4,37.4,34,800,M,whole oto
+S0009,Steenbras,Meob Bay,24.73,19/10/2020,South,2020,10,19,Spring,4,39,36.1,940,M,whole oto
+S0011,Steenbras,Meob Bay,24.75,20/10/2020,South,2020,10,20,Spring,4,43.5,39.6,1400,H,whole oto
+S0015,Steenbras,Meob Bay,24.75,20/10/2020,South,2020,10,20,Spring,5,43,38.8,1260,M,whole oto
+S0016,Steenbras,Meob Bay,24.75,20/10/2020,South,2020,10,20,Spring,3,38.4,34.8,880,M,whole oto
+S0017,Steenbras,Meob Bay,24.75,20/10/2020,South,2020,10,20,Spring,4,39.2,35.4,940,M,sliced
+S0018,Steenbras,Meob Bay,24.74,21/10/2020,South,2020,10,21,Spring,5,44.2,39.5,1300,F,whole oto
+S0020,Steenbras,Meob Bay,24.74,21/10/2020,South,2020,10,21,Spring,7,49.6,44.9,1960,F,sliced
+S0021,Steenbras,Meob Bay,24.74,21/10/2020,South,2020,10,21,Spring,4,44.9,41,1500,M,whole oto
+S0023,Steenbras,Meob Bay,24.74,21/10/2020,South,2020,10,21,Spring,4,45.7,41.8,1500,M,sliced
+S0024,Steenbras,Meob Bay,24.74,22/10/2020,South,2020,10,22,Spring,5,43,38.6,1680,M,whole oto
+S0025,Steenbras,Meob Bay,24.74,22/10/2020,South,2020,10,22,Spring,8,48,43.8,1620,H,whole oto
+S0026,Steenbras,Meob Bay,24.68,12/01/2021,South,2021,1,12,Summer,4,41.4,37.8,970,M,whole oto
+S0033,Steenbras,Meob Bay,24.68,12/01/2021,South,2021,1,12,Summer,4,38.9,35,940,M,whole oto
+S0036,Steenbras,Meob Bay,24.68,13/01/2021,South,2021,1,13,Summer,4,38,35,900,M,whole oto
+S0038,Steenbras,Meob Bay,24.68,13/01/2021,South,2021,1,13,Summer,4,38.1,34.6,850,M,whole oto
+S0040,Steenbras,Meob Bay,24.68,14/01/2021,South,2021,1,14,Summer,6,50.3,45.7,2150,F,whole oto
+S0043,Steenbras,Meob Bay,24.68,14/01/2021,South,2021,1,14,Summer,7,38,34.5,900,M,sliced
+S0047,Steenbras,Meob Bay,,01/03/2021,South,2021,3,1,Autumn,5,39,35.5,990,M,whole oto
+S0049,Steenbras,Meob Bay,,01/03/2021,South,2021,3,1,Autumn,7,38.3,35,840,H,sliced
+S0050,Steenbras,Meob Bay,,01/03/2021,South,2021,3,1,Autumn,4,39.5,36.2,920,H,whole oto
+S0055,Steenbras,Meob Bay,,02/03/2021,South,2021,3,2,Autumn,5,51,46.5,2020,F,whole oto
+S0056,Steenbras,Meob Bay,,02/03/2021,South,2021,3,2,Autumn,9,50,45.6,2110,F,sliced
+S0058,Steenbras,Meob Bay,24.60277,22/03/2021,South,2021,3,22,Autumn,10,43,40,1300,H,sliced
+S0063,Steenbras,Meob Bay,24.9,20/04/2021,South,2021,4,20,Autumn,11,62.2,57.5,3870,F,sliced
+S0065,Steenbras,Meob Bay,24.73,17/05/2021,South,2021,5,17,Autumn,7,51.6,47,2420,H,whole oto
+S0066,Steenbras,Meob Bay,24.52,19/05/2021,South,2021,5,19,Autumn,6,45,41.9,1390,M,whole oto
+S0070,Steenbras,Meob Bay,24.62,20/05/2021,South,2021,5,20,Autumn,9,51.6,46.5,2380,F,sliced
+S0072,Steenbras,Meob Bay,24.62,20/05/2021,South,2021,5,20,Autumn,10,57.4,52.2,2910,H,sliced
+S0073,Steenbras,Meob Bay,24.62,20/05/2021,South,2021,5,20,Autumn,5,41.5,38.8,1210,H,whole oto
+S0074,Steenbras,Meob Bay,24.62,20/05/2021,South,2021,5,20,Autumn,12,50.5,47,1260,M,sliced
+S0077,Steenbras,Meob Bay,24.62,20/05/2021,South,2021,5,20,Autumn,8,43.6,40,1210,H,sliced
+S0079,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,6,47.5,43.5,1790,M,sliced
+S0082,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,10,48.6,45,1830,F,sliced
+S0083,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,9,54.8,50.1,2720,M,sliced
+S0086,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,10,51,47.3,2190,F,sliced
+S0089,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,8,50.1,46.2,2100,H,sliced
+S0090,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,6,46,42,1650,M,whole oto
+S0092,Steenbras,Meob Bay,24.66,24/08/2021,South,2021,8,24,Winter,5,44,40,1370,M,sliced
+S0097,Steenbras,Meob Bay,24.74,26/10/2021,South,2021,10,26,Spring,5,41,37,950,M,whole oto
+S0099,Steenbras,Meob Bay,24.74,26/10/2021,South,2021,10,26,Spring,5,42.1,38.4,1110,F,sliced
+S0101,Steenbras,Meob Bay,24.736675,09/11/2021,South,2021,11,9,Summer,9,40.9,37,1110,H,
+S0102,Steenbras,Meob Bay,24.74,09/11/2021,South,2021,11,9,Summer,10,46,41.7,1400,H,sliced
+S0103,Steenbras,Meob Bay,24.74,09/11/2021,South,2021,11,9,Summer,5,44.9,41.8,1350,H,sliced
+S0108,Steenbras,Meob Bay,24.74,09/11/2021,South,2021,11,9,Summer,5,55.3,50.3,2770,F,whole oto
+S0112,Steenbras,Meob Bay,24.73,31/12/2021,South,2021,12,31,Summer,5,39.5,36,1070,H,sliced
+S0113,Steenbras,Meob Bay,24.73,31/12/2021,South,2021,12,31,Summer,6,45.8,42,1580,H,whole oto
+S0114,Steenbras,Meob Bay,24.73,31/12/2021,South,2021,12,31,Summer,5,42.5,39,1280,H,whole oto
+S0116,Steenbras,Meob Bay,24.73,31/12/2021,South,2021,12,31,Summer,5,42.6,38.9,1320,H,whole oto
+S0117,Steenbras,Meob Bay,24.72,21/02/2022,South,2022,2,21,Summer,6,41.2,37.2,1096,F,sliced
+S0118,Steenbras,Meob Bay,24.72,21/02/2022,South,2022,2,21,Summer,5,42.1,38,1192,H,whole oto
+S0119,Steenbras,Meob Bay,24.72,21/02/2022,South,2022,2,21,Summer,5,48.7,44.3,1842,H,agrees with sliced; whole
+S0120,Steenbras,Meob Bay,24.72,22/02/2022,South,2022,2,22,Summer,7,41.9,38.1,1166,H,sliced
+S0122,Steenbras,Meob Bay,24.72,22/02/2022,South,2022,2,22,Summer,6,47.3,43.2,1666,H,whole oto
+S0124,Steenbras,Meob Bay,24.72,22/02/2022,South,2022,2,22,Summer,5,46,41.9,1630,H,whole oto
+S0126,Steenbras,Meob Bay,24.72,23/02/2022,South,2022,2,23,Summer,6,46.1,43,1611,M,whole oto
+S0127,Steenbras,Meob Bay,24.72,23/02/2022,South,2022,2,23,Summer,4,39,35,772,M,whole oto
+S0128,Steenbras,Meob Bay,24.72,23/02/2022,South,2022,2,23,Summer,2,29,26.3,351,M,whole oto
+S0129,Steenbras,Meob Bay,24.59,07/03/2022,South,2022,3,7,Summer,5,39.4,36,1026,M,whole oto
+S0131,Steenbras,Meob Bay,24.59,07/03/2022,South,2022,3,7,Summer,5,40,36.5,1188,M,whole oto
+S0132,Steenbras,Meob Bay,24.59,07/03/2022,South,2022,3,7,Summer,9,41.4,38.2,1390,H,whole oto
+S0133,Steenbras,Meob Bay,24.59,07/03/2022,South,2022,3,7,Summer,9,51.1,46.2,2082,F,sliced
+S0134,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,7,44,40,1360,F,whole oto
+S0135,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,5,43,39.1,1330,F,whole oto
+S0136,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,9,52.5,47.4,2560,F,sliced
+S0137,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,7,47.2,43.3,1850,M,sliced
+S0138,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,6,48.5,44.5,1810,H,sliced
+S0139,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,6,47.5,43.5,1880,F,whole oto
+S0141,Steenbras,Meob Bay,24.58836111,09/03/2022,South,2022,3,9,Summer,8,45.8,41.6,1640,M,polished sliced
+S0146,Steenbras,Meob Bay,24.58836111,10/03/2022,South,2022,3,10,Summer,6,42.3,38.5,1156,H,whole oto
+S0147,Steenbras,Meob Bay,24.58836111,10/03/2022,South,2022,3,10,Summer,6,50,45,1863,F,whole oto
+S0148,Steenbras,Meob Bay,24.58836111,10/03/2022,South,2022,3,10,Summer,7,50,45.7,1980,M,whole oto
+S0149,Steenbras,Meob Bay,24.58836111,10/03/2022,South,2022,3,10,Summer,6,49.3,45,2020,M,sliced
+S0150,Steenbras,Meob Bay,24.58836111,10/03/2022,South,2022,3,10,Summer,9,58.9,53.3,3431,F,whole oto
+S0152,Steenbras,Meob Bay,24.57,07/04/2022,South,2022,4,7,Autumn,11,66.5,60.1,4468,H,sliced
+S0153,Steenbras,Meob Bay,24.57436,07/04/2022,South,2022,4,7,Autumn,15,69,62,4817,H,sliced
+S0154,Steenbras,Meob Bay,24.57436,07/04/2022,South,2022,4,7,Autumn,6,42.5,37.9,1294,F,whole oto
+S0156,Steenbras,Meob Bay,24.57436,07/04/2022,South,2022,4,7,Autumn,6,44.5,40,1410,F,sliced
+S0159,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,13,62.1,57.2,4140,F,sliced
+S0160,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,18,63.7,58,4070,F,sliced
+S0161,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,11,56,51.5,2850,M,sliced
+S0162,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,6,45.5,41.6,1460,F,sliced
+S0163,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,7,41.6,38.8,1150,M,sliced
+S0164,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,7,50.4,45.9,1890,M,sliced
+S0166,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,7,49.2,44.8,1844,H,sliced
+S0167,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,11,56.4,51.2,2842,H,sliced
+S0168,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,5,36.3,32.7,651,M,whole oto
+S0169,Steenbras,Meob Bay,24.65,06/06/2022,South,2022,6,6,Winter,11,53.5,48.5,2291,F,sliced
+S0170,Steenbras,Meob Bay,24.59,07/07/2022,South,2022,7,7,Winter,6,42.6,39.5,1300,H,whole oto
+S0171,Steenbras,Meob Bay,24.59,07/07/2022,South,2022,7,7,Winter,9,50,45.5,1970,H,sliced
+S0174,Steenbras,Meob Bay,24.59,07/07/2022,South,2022,7,7,Winter,11,55.6,52.5,2900,F,sliced
+S0176,Steenbras,Meob Bay,24.59,07/07/2022,South,2022,7,7,Winter,12,57.3,52.8,2810,H,sliced
+S0181,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,8,39.5,36.5,1020,H,sliced
+S0182,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,7,41,38.5,1210,H,whole oto
+S0186,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,11,60.2,55,3240,F,sliced
+S0187,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,9,57,52.5,3150,F,sliced
+S0189,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,6,44.5,40.2,1320,H,whole oto
+S0192,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,6,52.2,49,2270,H,sliced
+S0193,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,7,39.3,35.5,900,H,sliced
+S0194,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,7,43,39.2,1300,H,whole oto
+S0195,Steenbras,Meob Bay,24.56,25/08/2022,South,2022,8,25,Winter,11,45,41,1580,H,
+S0196,Steenbras,Meob Bay,24.71,18/09/2022,South,2022,9,18,Spring,12,56.5,53.3,3320,F,sliced
+S0200,Steenbras,Meob Bay,24.71,18/09/2022,South,2022,9,18,Spring,12,53.9,49.1,2710,F,sliced
+S0201,Steenbras,Meob Bay,24.71,18/09/2022,South,2022,9,18,Spring,12,55,51,2780,F,sliced
+S0202,Steenbras,Meob Bay,,13/03/2023,South,2023,3,13,Autumn,12,60.5,55.4583,3400,H,sliced
+S0203,Steenbras,Meob Bay,,14/03/2023,South,2023,3,14,Autumn,9,50.4,46.09358,2340,F,sliced
+S0206,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,9,54.7,50.5,2690,H,sliced
+S0207,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,4,43.2,39.4,1240,M,whole oto
+S0208,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,9,54.5,50.4,2430,F,sliced
+S0209,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,8,56.4,51.3,2840,H,sliced
+S0211,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,9,55.2,50.1,2250,F,sliced
+S0212,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,6,54.6,49.7,2000,H,sliced
+S0213,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,10,40.8,37.1,600,J,sliced
+S0215,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,10,52.5,47.9,2500,H,sliced
+S0216,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,8,54.1,49.5,2000,H,sliced
+S0217,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,7,48,43.6,1500,H,sliced
+S0218,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,11,53.7,49.3,2000,F,sliced
+S0219,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,7,48,42.3,1500,F,sliced
+S0220,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,8,53.9,49,2000,F,sliced
+S0221,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,7,50.4,46.2,2000,M,sliced
+S0222,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,8,48.1,43.4,1600,H,sliced
+S0223,Steenbras,Meob Bay,24.67,07/08/2023,South,2023,8,7,Winter,8,54.2,50.5,2250,H,sliced
+S0224,Steenbras,Meob Bay,24.45,08/08/2023,South,2023,8,8,Winter,11,60,54.1,2750,H,sliced
+S0225,Steenbras,Meob Bay,24.45,08/08/2023,South,2023,8,8,Winter,11,61.2,55.4,2750,F,sliced
+S0226,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,11,61.7,56.8,3250,H,sliced
+S0227,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,9,61.6,56.2,3000,H,sliced
+S0228,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,11,60.3,55,3250,F,sliced
+S0229,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,11,65.2,59.9,3250,F,sliced
+S0230,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,6,57,53.1,2250,H,sliced
+S0231,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,13,56.4,53.5,3000,H,sliced
+S0232,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,13,60.5,55.6,3250,H,sliced
+S0233,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,10,65,60,3750,H,sliced
+S0234,Steenbras,Meob Bay,24.48,08/08/2023,South,2023,8,8,Winter,12,60.2,55.2,2500,H,sliced
+S0235,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,9,48,43.6,1500,F,sliced
+S0236,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,54.3,50.2,2500,H,sliced
+S0237,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,12,54.7,50.1,2000,F,sliced
+S0238,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,13,60.5,56.1,3000,M,sliced
+S0239,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,57.7,52.8,2500,F,sliced
+S0240,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,53.8,50.5,2250,H,sliced
+S0241,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,10,52,47.5,2100,H,sliced
+S0242,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,9,53.4,49,2000,H,sliced
+S0243,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,12,64.5,58.4,3600,F,sliced
+S0245,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,7,56,51,2100,M,sliced
+S0246,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,54.3,49.5,1500,H,sliced
+S0247,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,9,60.1,55,2600,H,sliced
+S0248,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,10,55,49.7,1900,H,sliced
+S0250,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,10,56,50.8,2000,F,sliced
+S0251,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,9,56.5,51.4,2000,F,sliced
+S0252,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,53.3,48.6,1750,H,sliced
+S0253,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,8,55,50.3,2000,F,sliced
+S0255,Steenbras,Conception Bay,23.9,10/08/2023,South,2023,8,10,Winter,11,58.2,53.8,2500,H,sliced
+S0256,Steenbras,Conception Bay,23.8,11/08/2023,South,2023,8,11,Winter,9,47.5,43,1000,H,sliced
+S0257,Steenbras,Conception Bay,23.8,11/08/2023,South,2023,8,11,Winter,9,48,43.6,1250,H,sliced
+S0258,Steenbras,Conception Bay,23.8,11/08/2023,South,2023,8,11,Winter,11,68.2,62.4,4750,F,sliced
